@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Сoffee shop order</string>
+    <string name="Welcome">Добро пожаловать!</string>
+    <string name="hintTextUserName">Введите имя</string>
+    <string name="hintTextPassword">Введите пароль</string>
+    <string name="buttonOrderText">Продолжить</string>
+    <string name="imageDescription">Логотип кофейни</string>
+</resources>
